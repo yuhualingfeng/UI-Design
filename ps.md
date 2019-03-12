@@ -13,6 +13,7 @@
 + Ctrl + Alt + Shift + T 再次变换
 + Ctrl + J    复制图层
 + Ctrl + G    图层合并为组
++ Ctrl + D    取消选区
 
 
 ## 基本工具使用
