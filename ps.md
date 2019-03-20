@@ -14,6 +14,8 @@
 + Ctrl + J    复制图层
 + Ctrl + G    图层合并为组
 + Ctrl + D    取消选区
++ Ctrl + Shift + I 选区反选
++ Ctrl + H    清除参考线
 
 
 ## 基本工具使用
